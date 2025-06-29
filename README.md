@@ -72,15 +72,15 @@ Uncovered booking trends and revenue gaps using hotel data.
 
 ### 🛒 Maven MegaMart Sales Analysis
 Analyzed millions of retail transactions to identify key revenue drivers.  
-🔗 [GitHub Repo]([https://lnkd.in/gTg85Yu8](https://github.com/ManoharManu1999/Maven_Mega_Mart))  
-🧪 **Tools**: Python, Time-Series, Seaborn, Pandas, Numpy  
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Mega_Mart)  
+🧪 **Tools**: Python, Time-Series, Seaborn  
 
 ---
 
 ### 💼 U.S. Data Analyst Job Trends (Python)
 Explored tech skills, job titles, and salary benchmarks from job postings.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Python_Data_Project)  
-🔧 Tools: Pandas, Python, Plotly, Mumpy  
+🔧 **Tools**: Pandas, Python, Plotly, Mumpy  
 
 ---
 
@@ -88,18 +88,9 @@ Explored tech skills, job titles, and salary benchmarks from job postings.
 Built an interactive sales dashboard for manufacturing data.  
 📌 Pages: KPIs, Regions, Products, Customers  
 🛠 Tools: Power BI, DAX  
-![Adventure Works](https://via.placeholder.com/1000x500.png?text=Adventure+Works+Dashboard)
+![Adventure Works](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)
 
 ---
-
-### 🛍 E-Commerce Sales Dashboard (Power BI)
-Visualized customer demographics and sales funnel trends.  
-📈 Tools: Power BI, Slicers, UX/UI  
-![E-Commerce](https://via.placeholder.com/1000x500.png?text=E-Commerce+Dashboard)
-
----
-
-
 
 ## 📫 Let's Connect!
 
