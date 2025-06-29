@@ -14,9 +14,19 @@ I'm a data analytics enthusiast focused on **turning raw data into meaningful in
 
 From hotel performance and retail trends to job market behavior, I build **compelling data stories** using tools like **Power BI, Python, and SQL**.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/your-github-username)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:yourname@example.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manohark1999)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/ManoharManu1999)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:manoharmanu.k1999@gmail.com)
+
+---
+
+## 📝 Career Highlights
+
+- 🏆 Completed 6+ real-world data analytics projects
+- 📊 Designed dynamic dashboards with 25+ KPIs
+- 🧠 Solid skills in DAX, Power Query, Python, SQL
+- 📚 Trained via Coursera, Udemy, and real-world projects
+- 🔍 Focused on business impact and visual storytelling
 
 ---
 
@@ -89,6 +99,44 @@ Built an interactive sales dashboard for manufacturing data.
 📌 Pages: KPIs, Regions, Products, Customers  
 🛠 Tools: Power BI, DAX  
 ![Adventure Works](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)
+
+---
+
+## 📜 Certifications
+
+Here are my verified certifications from top platforms:
+
+![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+
+- 🧾 [Excel Skills for Business – Macquarie University](https://www.coursera.org/account/accomplishments/specialization/MN9TMJPZ5KTY)
+- 🧾 [Programming for Everybody (Python) – University of Michigan](https://www.coursera.org/account/accomplishments/verify/906GCZ6N5LYO)
+- 🧾 [Preparing Data for Analysis with Excel](https://www.coursera.org/account/accomplishments/verify/HP9K3T12YYNU)
+
+---
+
+<br>![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
+- 🧾 [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-ef18ba75-6174-4f77-8dff-2e69cef850df/)
+- 🧾 [Microsoft Power BI Desktop for Business Intelligence](http://ude.my/UC-a2faa9ac-706d-4220-8818-66d61cc07807)
+
+---
+
+<br> ![Maven Analytics Badge](https://img.shields.io/badge/Maven%20Analytics-0A66C2?style=for-the-badge&logo=knowledgebase&logoColor=white)
+
+
+- 🧾 [Python Foundations for Data Analysis](https://certificates.mavenanalytics.io/ea561dcf-b698-41e4-90cb-453e69381171)
+- 🧾 [MySQL Data Analysis](https://certificates.mavenanalytics.io/a138beb0-1f60-4ca9-9ef6-4dbd8b5bec16)
+- 🧾 [Microsoft Copilot for Excel](https://certificates.mavenanalytics.io/f4796d41-f2b3-4397-a6b2-f074e4323e32)
+- 🧾 [Data Visualization with Matplotlib & Seaborn](https://certificates.mavenanalytics.io/9c29f760-a019-4e78-8104-a99b07042da3)
+- 🧾 [Data Analysis with Python & Pandas](https://certificates.mavenanalytics.io/18a445cd-15b7-488b-9ee1-34ee6a52e6d7)
+- 🧾 [Cloud Basics for Data Professionals](https://certificates.mavenanalytics.io/5d31cdca-c46b-4e44-b70d-f9315ba736f2)
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharManu1999&layout=compact&theme=default)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoharManu1999&show_icons=true&theme=default)
 
 ---
 
