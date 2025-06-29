@@ -13,16 +13,16 @@
 - 🏆 Completed 6+ real-world data analytics projects
 - 📊 Designed dynamic dashboards with 25+ KPIs
 - 🧠 Solid skills in DAX, Power Query, Python, SQL
-- 📚 Trained via Coursera, Udemy, and real-world projects
-- 🔍 Focused on business impact and visual storytelling
+- 📚 Trained through Coursera, Udemy, and real-world projects
+- 🔍 Focused on delivering business impact through visual storytelling
   
 ---
 
 ## 🌐 Welcome to my little corner of the internet!
 
-I'm a data analytics enthusiast focused on **turning raw data into meaningful insights** that drive smart business decisions.
+I'm a data analytics enthusiast passionate about **transforming raw data into actionable insights** that drive smarter business decisions.
 
-From hotel performance and retail trends to job market behavior, I build **compelling data stories** using tools like **Power BI, Python, and SQL**.
+From hotel performance and retail trends to job market analysis, I build **compelling data stories** using tools like **Power BI, Excel, Python, and SQL**.
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/ManoharManu1999)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manohark1999)  
@@ -41,7 +41,7 @@ Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remot
 ---
 
 ### 🏨 AtliQ Hospitality EDA (Python Project)
-Uncovered booking trends and revenue gaps using hotel data.  
+Uncovered booking trends and revenue insights using hotel data.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/EDA-Project-on-AtliQ-Hospitality)  
 📊 **Tools**: Pandas, Seaborn, Matplotlib  
 
@@ -57,12 +57,12 @@ Analyzed millions of retail transactions to identify key revenue drivers.
 ### 💼 U.S. Data Analyst Job Trends (Python)
 Explored tech skills, job titles, and salary benchmarks from job postings.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Python_Data_Project)  
-🔧 **Tools**: Pandas, Python, Plotly, Mumpy  
+🔧 **Tools**: Pandas, Python, Plotly, Numpy 
 
 ---
 
 ### 🚴 Adventure Works Power BI Dashboard
-Built an interactive sales dashboard for manufacturing data.  
+Created a multi-page sales dashboard with insights on KPIs, regions, products, and customer segments.  
 📌 Pages: KPIs, Regions, Products, Customers  
 🛠 Tools: Power BI, DAX  
 
@@ -73,7 +73,7 @@ Built an interactive sales dashboard for manufacturing data.
 Hi again! I’m Manohar — someone who loves making work life **less overwhelming** and a *lot* more insightful with dashboards, data, and a dose of curiosity.
 
 Here on GitHub, you’ll find:
-- 🛠️ Projects I’ve built using real-world datasets  
+- 🛠️ Practical projects using real-world datasets  
 - 📊 Dashboards and analytics reports powered by Python & Power BI  
 - 🔍 Explorations into trends, behaviors, and business outcomes  
 - 💡 Lessons I’m learning as I grow into the data space
