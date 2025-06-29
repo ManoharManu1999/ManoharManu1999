@@ -64,7 +64,8 @@ Explored tech skills, job titles, and salary benchmarks from job postings.
 ### 🚴 Adventure Works Power BI Dashboard
 Created a multi-page sales dashboard with insights on KPIs, regions, products, and customer segments.  
 📌 Pages: KPIs, Regions, Products, Customers  
-🛠 Tools: Power BI, DAX  
+🛠 Tools: Power BI, DAX 
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)
 
 ---
 
