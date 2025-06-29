@@ -94,8 +94,8 @@ Built an interactive sales dashboard for manufacturing data.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: yourname@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manohark1999)
+- 📧 Email: manoharmanu.k1999@gmail.com  
 - 💬 Always open to chat about data, dashboards, or career advice!
 
 ---
