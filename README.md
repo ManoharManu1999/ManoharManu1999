@@ -2,21 +2,9 @@
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"> Hey there! I'm Manohar
 
-🎯 **Aspiring Data Analyst | Passionate about transforming data into stories that drive decisions**
-
 > 🧠 *“Without data, you're just another person with an opinion.”* — W. Edwards Deming
 
----
-
-## 🌐 Welcome to my little corner of the internet!
-
-I'm a data analytics enthusiast focused on **turning raw data into meaningful insights** that drive smart business decisions.
-
-From hotel performance and retail trends to job market behavior, I build **compelling data stories** using tools like **Power BI, Python, and SQL**.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manohark1999)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/ManoharManu1999)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:manoharmanu.k1999@gmail.com)
+🎯 **Aspiring Data Analyst | Passionate about transforming data into stories that drive decisions**
 
 ---
 
@@ -27,44 +15,23 @@ From hotel performance and retail trends to job market behavior, I build **compe
 - 🧠 Solid skills in DAX, Power Query, Python, SQL
 - 📚 Trained via Coursera, Udemy, and real-world projects
 - 🔍 Focused on business impact and visual storytelling
-
+  
 ---
 
-## 👨‍💻 About Me
+## 🌐 Welcome to my little corner of the internet!
 
-Hi again! I’m Manohar — someone who loves making work life **less overwhelming** and a *lot* more insightful with dashboards, data, and a dose of curiosity.
+I'm a data analytics enthusiast focused on **turning raw data into meaningful insights** that drive smart business decisions.
 
-Here on GitHub, you’ll find:
-- 🛠️ Projects I’ve built using real-world datasets  
-- 📊 Dashboards and analytics reports powered by Python & Power BI  
-- 🔍 Explorations into trends, behaviors, and business outcomes  
-- 💡 Lessons I’m learning as I grow into the data space
+From hotel performance and retail trends to job market behavior, I build **compelling data stories** using tools like **Power BI, Python, and SQL**.
 
-Whether you’re here to browse code, share ideas, or see how others are figuring things out — **you’re in the right place**. Let’s connect, learn, and grow — one repo at a time.
-
-You bring the snacks 🍪, I’ll bring the code 💻
-
----
-## 🧰 Tech Stack
-
-Here’s what’s in my toolbox:
-
-
-| **Category**             | **Tools** |
-|--------------------------|-----------|
-| **Database**             | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Programming & Libraries** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
-| **Analytics & BI**       | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)|
-| **Version Control**      | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Frameworks**           | ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Tools & Platforms**    | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/ManoharManu1999)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manohark1999)  
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:manoharmanu.k1999@gmail.com)
 
 ---
 ## 🚀 Featured Projects
 
 Check out some of the projects where I’ve explored data, uncovered insights, and built visual dashboards. Click through to view live demos or code repositories!
-
-<!-- Replace placeholder image links with real screenshots -->
 
 ### 📌 Power BI Job Market Dashboard (2024)
 Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
@@ -98,7 +65,39 @@ Explored tech skills, job titles, and salary benchmarks from job postings.
 Built an interactive sales dashboard for manufacturing data.  
 📌 Pages: KPIs, Regions, Products, Customers  
 🛠 Tools: Power BI, DAX  
-![Adventure Works](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)
+
+---
+
+## 👨‍💻 About Me
+
+Hi again! I’m Manohar — someone who loves making work life **less overwhelming** and a *lot* more insightful with dashboards, data, and a dose of curiosity.
+
+Here on GitHub, you’ll find:
+- 🛠️ Projects I’ve built using real-world datasets  
+- 📊 Dashboards and analytics reports powered by Python & Power BI  
+- 🔍 Explorations into trends, behaviors, and business outcomes  
+- 💡 Lessons I’m learning as I grow into the data space
+
+Whether you’re here to browse code, share ideas, or see how others are figuring things out — **you’re in the right place**. Let’s connect, learn, and grow — one repo at a time.
+
+You bring the snacks 🍪, I’ll bring the code 💻
+
+---
+## 🧰 Tech Stack
+
+Here’s what’s in my toolbox:
+
+
+| **Category**             | **Tools** |
+|--------------------------|-----------|
+| **Database**             | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Programming & Libraries** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Analytics & BI**       | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)|
+| **Version Control**      | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| **Frameworks**           | ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Tools & Platforms**    | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+
+
 
 ---
 
