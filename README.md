@@ -33,6 +33,14 @@ From hotel performance and retail trends to job market analysis, I build **compe
 
 Check out some of the projects where I’ve explored data, uncovered insights, and built visual dashboards. Click through to view live demos or code repositories!
 
+### 🏗️ SQL Server Data Warehouse & Analytics Project
+Designed and implemented an end-to-end data warehouse using **SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.  
+The project focuses on ETL pipeline development, data quality handling, and dimensional modeling for analytics.
+🔗 [GitHub Repository](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)  
+🛠 **Tools**: SQL Server, T-SQL, Stored Procedures, ETL, Dimensional Modelling
+
+---
+
 ### 📌 Power BI Job Market Dashboard (2024)
 Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Data-Jobs-Market-Power-BI-Dashboard-)<br>
@@ -43,21 +51,21 @@ Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remot
 ### 🏨 AtliQ Hospitality EDA (Python Project)
 Uncovered booking trends and revenue insights using hotel data.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/EDA-Project-on-AtliQ-Hospitality)  
-📊 **Tools**: Pandas, Seaborn, Matplotlib  
+🛠 **Tools**: Pandas, Seaborn, Matplotlib  
 
 ---
 
 ### 🛒 Maven MegaMart Sales Analysis
 Analyzed millions of retail transactions to identify key revenue drivers.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Mega_Mart)  
-🧪 **Tools**: Python, Time-Series, Seaborn  
+🛠 **Tools**: Python, Time-Series, Seaborn  
 
 ---
 
 ### 💼 U.S. Data Analyst Job Trends (Python)
 Explored tech skills, job titles, and salary benchmarks from job postings.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Python_Data_Project)  
-🔧 **Tools**: Pandas, Python, Plotly, Numpy 
+🛠 **Tools**: Pandas, Python, Plotly, Numpy 
 
 ---
 
@@ -65,8 +73,7 @@ Explored tech skills, job titles, and salary benchmarks from job postings.
 Created a multi-page sales dashboard with insights on KPIs, regions, products, and customer segments.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)<br>
 📌 Pages: KPIs, Regions, Products, Customers  
-🛠 Tools: Power BI, DAX 
-
+🛠 **Tools**: Power BI, DAX 
 
 ---
 
