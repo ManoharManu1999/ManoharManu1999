@@ -35,8 +35,8 @@ Check out some of the projects where I’ve explored data, uncovered insights, a
 
 ### 🏗️ SQL Server Data Warehouse & Analytics Project
 Designed and implemented an end-to-end data warehouse using **SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.  
-The project focuses on ETL pipeline development, data quality handling, and dimensional modeling for analytics.
-🔗 [GitHub Repository](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)  
+The project focuses on ETL pipeline development, data quality handling, and dimensional modeling for analytics.<br>
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)  
 🛠 **Tools**: SQL Server, T-SQL, Stored Procedures, ETL, Dimensional Modelling
 
 ---
