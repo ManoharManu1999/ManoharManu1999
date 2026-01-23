@@ -42,6 +42,13 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 
 ---
 
+## 🛒 Walmart Sales Analysis
+Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.
+🔗 [GitHub Repo]([https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project])  
+🛠 **Tools**: SQL Server | Data Analysis
+
+---
+
 ### 📌 Power BI Job Market Dashboard (2024)
 Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Data-Jobs-Market-Power-BI-Dashboard-)<br>
@@ -85,7 +92,7 @@ Hi again! I’m Manohar — someone who loves making work life **less overwhelmi
 Here on GitHub, you’ll find:
 - 🛠️ Practical projects using real-world datasets  
 - 📊 Dashboards and analytics reports powered by Python & Power BI  
-- 🔍 Explorations into trends, behaviors, and business outcomes  
+- 🔍 Explorations into trends, behaviours, and business outcomes  
 - 💡 Lessons I’m learning as I grow into the data space
 
 Whether you’re here to browse code, share ideas, or see how others are figuring things out — **you’re in the right place**. Let’s connect, learn, and grow — one repo at a time.
