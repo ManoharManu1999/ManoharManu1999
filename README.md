@@ -43,7 +43,7 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 ---
 
 ## 🛒 Walmart Sales Analysis
-Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.
+Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project) 
 🛠 **Tools**: SQL Server | Data Analysis
 
