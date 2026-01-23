@@ -36,7 +36,7 @@ Check out some of the projects where I’ve explored data, uncovered insights, a
 
 ### 🏗️ SQL Server Data Warehouse & Analytics Project
 Designed and implemented an end-to-end data warehouse using **SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.  
-The project focuses on ETL pipeline development, data quality handling, and dimensional modeling for analytics.<br>
+The project focuses on ETL pipeline development, data quality handling, and dimensional modelling for analytics.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)  
 🛠 **Tools**: SQL Server, T-SQL, Stored Procedures, ETL, Dimensional Modelling
 
@@ -45,7 +45,7 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 ## 🛒 Walmart Sales Analysis
 Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project) 
-🛠 **Tools**: SQL Server | Data Analysis
+🛠 **Tools**: SQL Server, Data Analysis, Business Insights
 
 ---
 
