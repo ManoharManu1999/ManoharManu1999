@@ -42,6 +42,14 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 
 ---
 
+### 🎵 SQL Music Store Analysis (PostgreSQL)
+Designed and executed SQL-driven exploratory analysis on a digital music store dataset using PostgreSQL.
+The project focuses on business-oriented analysis using **joins**, aggregations, **window functions**, and **CTEs** to derive insights from customer, sales, and catalog data.
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Music-Store-Analysis-Project)
+🛠 **Tools**: PostgreSQL, SQL, DBeaver, Window Functions, CTEs, CSV
+
+---
+
 ### 🛒 Walmart Sales Analysis 
 Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)<br>
