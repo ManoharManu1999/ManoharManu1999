@@ -9,7 +9,7 @@
 
 ---
 
-## 📝 Career Highlights
+## 📝 **Career Highlights**
 
 - 🏆 Completed 6+ real-world data analytics projects
 - 📊 Designed dynamic dashboards with 25+ KPIs
@@ -19,7 +19,7 @@
   
 ---
 
-## 🌐 Welcome to my little corner of the internet!
+## 🌐 **Welcome to my little corner of the internet!**
 
 I'm a data analytics enthusiast passionate about **transforming raw data into actionable insights** that drive smarter business decisions.
 
@@ -30,7 +30,7 @@ From hotel performance and retail trends to job market analysis, I build **compe
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:manoharmanu.k1999@gmail.com)
 
 ---
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
 Check out some of the projects where I’ve explored data, uncovered insights, and built visual dashboards. Click through to view live demos or code repositories!
 
@@ -93,7 +93,7 @@ Created a multi-page sales dashboard with insights on KPIs, regions, products, a
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 **About Me**
 
 Hi again! I’m Manohar — someone who loves making work life **less overwhelming** and a *lot* more insightful with dashboards, data, and a dose of curiosity.
 
@@ -108,14 +108,14 @@ Whether you’re here to browse code, share ideas, or see how others are figurin
 You bring the snacks 🍪, I’ll bring the code 💻
 
 ---
-## 🧰 Tech Stack
+## 🧰 **Tech Stack**
 
 Here’s what’s in my toolbox:
 
 
 | **Category**             | **Tools** |
 |--------------------------|-----------|
-| **Database**             | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)|
+| **Database**             | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)|
 | **Programming & Libraries** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
 | **Analytics & BI**       | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-008080?style=for-the-badge&logo=datadog&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-800080?style=for-the-badge&logo=airflow&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-00A86B?style=for-the-badge&logo=pinboard&logoColor=white)
 | **Version Control**      | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
@@ -124,7 +124,7 @@ Here’s what’s in my toolbox:
 
 ---
 
-## 📜 Certifications
+## 📜 **Certifications**
 
 Here are my verified certifications from top platforms:
 
@@ -155,12 +155,26 @@ Here are my verified certifications from top platforms:
 
 ---
 
-## 📫 Let's Connect!
+## 📞 **Let's Connect**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manohark1999)
-- 📧 Email: manoharmanu.k1999@gmail.com  
-- 💬 Always open to chat about data, dashboards, or career advice!
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohark1999)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharmanu.k1999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoharManu1999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+</div>
+
+<p align="center">
+  <em>💡 "Transforming complex data into intelligent solutions that drive business success"</em>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
 
 ---
+
 ⭐ *Thanks for stopping by! Don’t forget to check out my projects and give them a ⭐ if they spark your interest!*
 
