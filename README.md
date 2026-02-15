@@ -157,13 +157,6 @@ Here are my verified certifications from top platforms:
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharManu1999&layout=compact&theme=default)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoharManu1999&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manohark1999)
