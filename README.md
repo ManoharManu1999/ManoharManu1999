@@ -25,9 +25,12 @@ I'm a data analytics enthusiast passionate about **transforming raw data into ac
 
 From hotel performance and retail trends to job market analysis, I build **compelling data stories** using tools like **Power BI, Excel, Python, and SQL**.
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View_Projects-orange?style=flat&logo=github)](https://github.com/ManoharManu1999)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manohark1999)  
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green)](mailto:manoharmanu.k1999@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manohark1999/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manoharmanu.k1999@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="[ManoharManu1999](https://github.com/ManoharManu1999)"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ManoharManu1999&color=blue&style=flat-square" />
+</p>
 
 ---
 ## 🚀 **Featured Projects**
