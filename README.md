@@ -45,6 +45,14 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 
 ---
 
+### 🪪 PAN Number Validation & Data Quality Analysis (PostgreSQL)
+Built a real-world SQL data validation pipeline in PostgreSQL to clean, standardise, and validate Indian PAN numbers.
+Implemented regex-based format checks, duplicate handling, and sequence/repetition detection to classify valid and invalid records and generate data quality insights.
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/Pan_Number_Validation_Project)<br>
+🛠 **Tools**: PostgreSQL, SQL, DBeaver, Regex, CTE, Window Functions, Data Validation, CSV
+
+---
+
 ### 🎵 SQL Music Store Analysis (PostgreSQL)
 Designed and executed SQL-driven exploratory analysis on a digital music store dataset using PostgreSQL.
 The project focuses on business-oriented analysis using **joins**, aggregations, **window functions**, and **CTEs** to derive insights from customer, sales, and catalog data.<br>
@@ -53,7 +61,7 @@ The project focuses on business-oriented analysis using **joins**, aggregations,
 
 ---
 
-### 🛒 Walmart Sales Analysis 
+### 🛒 Walmart Sales Analysis (SQL Server)
 Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)<br>
 🛠 **Tools**: SQL Server, Data Analysis, Business Insights
@@ -61,7 +69,7 @@ Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and
 ---
 
 ### 📌 Power BI Job Market Dashboard (2024)
-Analyzed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
+Analysed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Data-Jobs-Market-Power-BI-Dashboard-)<br>
 🛠 **Tools**: Power BI, Power Query, DAX
 
@@ -75,7 +83,7 @@ Uncovered booking trends and revenue insights using hotel data.
 ---
 
 ### 🛒 Maven MegaMart Sales Analysis
-Analyzed millions of retail transactions to identify key revenue drivers.  
+Analysed millions of retail transactions to identify key revenue drivers.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Mega_Mart)  
 🛠 **Tools**: Python, Time-Series, Seaborn  
 
