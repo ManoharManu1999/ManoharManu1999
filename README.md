@@ -47,7 +47,7 @@ The project focuses on ETL pipeline development, data quality handling, and dime
 
 ### 🪪 PAN Number Validation & Data Quality Analysis (PostgreSQL)
 Built a real-world SQL data validation pipeline in PostgreSQL to clean, standardise, and validate Indian PAN numbers.
-Implemented regex-based format checks, duplicate handling, and sequence/repetition detection to classify valid and invalid records and generate data quality insights.
+Implemented regex-based format checks, duplicate handling, and sequence/repetition detection to classify valid and invalid records and generate data quality insights.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Pan_Number_Validation_Project)<br>
 🛠 **Tools**: PostgreSQL, SQL, DBeaver, Regex, CTE, Window Functions, Data Validation, CSV
 
