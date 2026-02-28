@@ -53,6 +53,13 @@ Implemented regex-based format checks, duplicate handling, and sequence/repetiti
 
 ---
 
+### 🎬 Maven Movies – Acquisition Due Diligence Analysis (MySQL)
+Conducted a structured acquisition-style business analysis using MySQL to evaluate revenue stability, inventory capital exposure, and customer lifetime value in a two-store retail model.  
+The project simulates real-world due diligence, applying multi-table joins, CTEs, and window functions to assess financial risk, capital efficiency, and monetization opportunities.<br>
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Movies_Project) <br> 
+🛠 **Tools**: MySQL, SQL, CTEs, Window Functions, Revenue Analysis, CLTV, Inventory Risk, Business Analytics
+
+---
 ### 🎵 SQL Music Store Analysis (PostgreSQL)
 Designed and executed SQL-driven exploratory analysis on a digital music store dataset using PostgreSQL.
 The project focuses on business-oriented analysis using **joins**, aggregations, **window functions**, and **CTEs** to derive insights from customer, sales, and catalog data.<br>
