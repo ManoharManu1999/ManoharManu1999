@@ -5,17 +5,19 @@
 
 > 🧠 *“Without data, you're just another person with an opinion.”* — W. Edwards Deming
 
-🎯 **Aspiring Data Analyst | Passionate about transforming data into stories that drive decisions**
+🎯 **Data Analyst | SQL | Business Intelligence | Analytics Engineering**
+
+I specialise in transforming structured and unstructured data into actionable business insights using SQL, Python, and Power BI.
 
 ---
 
-## 📝 **Career Highlights**
+## 🚀 Professional Summary
 
-- 🏆 Completed 6+ real-world data analytics projects
-- 📊 Designed dynamic dashboards with 25+ KPIs
-- 🧠 Solid skills in DAX, Power Query, Python, SQL
-- 📚 Trained through Coursera, Udemy, and real-world projects
-- 🔍 Focused on delivering business impact through visual storytelling
+- Delivered 8+ structured analytics projects across retail, hospitality, and job market domains  
+- Designed KPI dashboards with 25+ business metrics  
+- Built end-to-end SQL solutions using joins, CTEs, and window functions  
+- Applied revenue analysis, customer segmentation, and inventory risk modelling  
+- Strong foundation in MySQL, PostgreSQL, SQL Server, Power BI, and Python  
   
 ---
 
@@ -33,15 +35,22 @@ From hotel performance and retail trends to job market analysis, I build **compe
 </p>
 
 ---
-## 🚀 **Featured Projects**
-
-Check out some of the projects where I’ve explored data, uncovered insights, and built visual dashboards. Click through to view live demos or code repositories!
+## ⭐ **Featured Projects**
+These projects demonstrate end-to-end SQL analytics, data engineering workflows, and business-driven decision support across multiple domains.
 
 ### 🏗️ SQL Server Data Warehouse & Analytics Project
 Designed and implemented an end-to-end data warehouse using **SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.  
 The project focuses on ETL pipeline development, data quality handling, and dimensional modelling for analytics.<br>
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)<br>
 🛠 **Tools**: SQL Server, T-SQL, Stored Procedures, ETL, Dimensional Modelling
+
+---
+
+### 🎬 Maven Movies – Acquisition Due Diligence Analysis (MySQL)
+Conducted a structured acquisition-style business analysis using MySQL to evaluate revenue stability, inventory capital exposure, and customer lifetime value in a two-store retail model.  
+The project simulates real-world due diligence, applying multi-table joins, CTEs, and window functions to assess financial risk, capital efficiency, and monetization opportunities.<br>
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Movies_Project) <br> 
+🛠 **Tools**: MySQL, SQL, CTEs, Window Functions, Revenue Analysis, CLTV, Inventory Risk, Business Analytics
 
 ---
 
@@ -53,13 +62,6 @@ Implemented regex-based format checks, duplicate handling, and sequence/repetiti
 
 ---
 
-### 🎬 Maven Movies – Acquisition Due Diligence Analysis (MySQL)
-Conducted a structured acquisition-style business analysis using MySQL to evaluate revenue stability, inventory capital exposure, and customer lifetime value in a two-store retail model.  
-The project simulates real-world due diligence, applying multi-table joins, CTEs, and window functions to assess financial risk, capital efficiency, and monetization opportunities.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Movies_Project) <br> 
-🛠 **Tools**: MySQL, SQL, CTEs, Window Functions, Revenue Analysis, CLTV, Inventory Risk, Business Analytics
-
----
 ### 🎵 SQL Music Store Analysis (PostgreSQL)
 Designed and executed SQL-driven exploratory analysis on a digital music store dataset using PostgreSQL.
 The project focuses on business-oriented analysis using **joins**, aggregations, **window functions**, and **CTEs** to derive insights from customer, sales, and catalog data.<br>
@@ -82,14 +84,14 @@ Analysed 2024 job postings to uncover salary trends, in-demand skills, and remot
 
 ---
 
-### 🏨 AtliQ Hospitality EDA (Python Project)
+### 🏨 AtliQ Hospitality EDA (Python)
 Uncovered booking trends and revenue insights using hotel data.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/EDA-Project-on-AtliQ-Hospitality)  
 🛠 **Tools**: Pandas, Seaborn, Matplotlib  
 
 ---
 
-### 🛒 Maven MegaMart Sales Analysis
+### 🛒 Maven MegaMart Sales Analysis (Python)
 Analysed millions of retail transactions to identify key revenue drivers.  
 🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Mega_Mart)  
 🛠 **Tools**: Python, Time-Series, Seaborn  
