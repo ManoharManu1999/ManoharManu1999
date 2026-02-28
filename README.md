@@ -70,7 +70,7 @@ The project focuses on business-oriented analysis using **joins**, aggregations,
 
 ### 🛒 Walmart Sales Analysis (SQL Server)
 Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)<br>
+🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Walmart-Sales-Analysis-Project)<br>
 🛠 **Tools**: SQL Server, Data Analysis, Business Insights
 
 ---
