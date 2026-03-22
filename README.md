@@ -1,190 +1,115 @@
-
 ![Banner](https://github.com/ManoharManu1999/ManoharManu1999/blob/main/Banner.png)
 
-# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"> Hey there! I'm Manohar
+<h1 align="center">Hi there, I'm Manohar K. <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"> </h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI</h3>
 
-> 🧠 *“Without data, you're just another person with an opinion.”* — W. Edwards Deming
-
-🎯 **Data Analyst | SQL | Business Intelligence | Analytics Engineering**
-
-I specialise in transforming structured and unstructured data into actionable business insights using SQL, Python, and Power BI.
+<p align="center">
+  <a href="https://manoharmanu1999.github.io/manohar-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO_WEBSITE-050505?style=for-the-badge&logoColor=white&scale=1.5" alt="Portfolio Website" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Professional Summary
 
-- Delivered 8+ structured analytics projects across retail, hospitality, and job market domains  
-- Designed KPI dashboards with 25+ business metrics  
-- Built end-to-end SQL solutions using joins, CTEs, and window functions  
-- Applied revenue analysis, customer segmentation, and inventory risk modelling  
-- Strong foundation in MySQL, PostgreSQL, SQL Server, Power BI, and Python  
-  
+Data Analyst with **4+ years of experience** driving operational efficiency in the telecom sector. I specialize in transforming raw, complex datasets into actionable business insights that improve decision-making. 
+
+- 📊 **Design and optimize** end-to-end SQL solutions (Joins, CTEs, Window Functions)
+- 📈 **Develop** interactive Power BI dashboards for business decision-making
+- 🧠 **Focus** on revenue analysis, customer segmentation, and ETL pipeline design
+- 💼 **Experience** across Telecom operations, Retail, Hospitality, and Job Market analytics
+- 📫 **Reach me at:** manoharmanu.k1999@gmail.com
+
 ---
 
-## 🌐 **Welcome to my little corner of the internet!**
+## 💥 Impact Highlights
 
-I'm a data analytics enthusiast passionate about **transforming raw data into actionable insights** that drive smarter business decisions.
+- 🚀 **Built and deployed** dashboards tracking 25+ critical business KPIs.
+- ⚡ **Improved** data analysis efficiency using SQL automation and reusable queries.
+- 📉 **Identified** key revenue trends, seasonal patterns, and customer segments across retail and hospitality domains.
+- 🏗 **Designed** end-to-end ETL workflows, data warehousing architectures, and validation pipelines.
 
-From hotel performance and retail trends to job market analysis, I build **compelling data stories** using tools like **Power BI, Excel, Python, and SQL**.
+---
+
+## ⭐ Featured Projects
+
+*Click on any project title to view the full repository and code.*
+
+| Preview | Project | Business Impact & Description | Tech Stack |
+|:---:|---------|-------------------------------|------------|
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project1_Adventure_Works_Sales_Analysis_PowerBI_Dashboard.png" width="250" alt="Adventure Works"> | **[Adventure Works Dashboard](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)** | Designed a multi-page dashboard tracking KPIs, regional performance, and high-margin customer segments. | `Power BI`, `DAX` |
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project3_Data_Warehouse_Analytics.png" width="250" alt="SQL Data Warehouse"> | **[SQL Server Data Warehouse](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)** | Architected an end-to-end data warehouse utilizing Medallion Architecture and robust ETL pipelines. | `SQL Server`, `ETL` |
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project7_Maven_Movies_Due_Diligence.png" width="250" alt="Maven Movies"> | **[Maven Movies Acquisition Analysis](https://github.com/ManoharManu1999/Maven_Movies_Project)** | Simulated due diligence to evaluate revenue stability, inventory risk, and customer lifetime value (CLTV). | `MySQL`, `CTEs` |
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project2_Hotel_Booking_Data_Analysis.png" width="250" alt="AtliQ Hospitality"> | **[AtliQ Hospitality Data Analysis](https://github.com/ManoharManu1999/EDA-Project-on-AtliQ-Hospitality)** | Performed EDA on booking data to uncover revenue trends and occupancy patterns. | `Python`, `Pandas` |
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project8_PAN_Data_Validation.png" width="250" alt="PAN Data Validation"> | **[PAN Data Validation Pipeline](https://github.com/ManoharManu1999/Pan_Number_Validation_Project)** | Built a pipeline to validate and clean data using regex, duplicate detection, and quality checks. | `PostgreSQL`, `Regex` |
+| <img src="https://raw.githubusercontent.com/ManoharManu1999/manohar-portfolio/main/images/Project4_Maven_MegaMart_Retail_Analysis_(Python).png" width="250" alt="Maven MegaMart"> | **[Maven MegaMart Retail Analysis](https://github.com/ManoharManu1999/Maven_Mega_Mart)** | Analyzed millions of transactions to identify key revenue drivers and seasonal sales patterns. | `Python`, `Seaborn` |
+
+<br>
+
+### 📂 Other Projects
+
+* 👉 **[SQL Music Store Analysis](https://github.com/ManoharManu1999/SQL-Music-Store-Analysis-Project)**
+    * *Exploratory analysis using window functions to derive customer insights.*
+    * **Tools:** `PostgreSQL` • `SQL`
+* 👉 **[U.S. Data Analyst Job Trends](https://github.com/ManoharManu1999/Python_Data_Project)**
+    * *Explored tech skills, job titles, and salary benchmarks from 2024 postings.*
+    * **Tools:** `Python` • `Pandas` • `Plotly`
+* 👉 **[Walmart Sales Analysis](https://github.com/ManoharManu1999/SQL-Walmart-Sales-Analysis-Project)**
+    * *Uncovered customer behavior patterns and top-performing product categories.*
+    * **Tools:** `SQL Server` • `T-SQL`
+* 👉 **[Data Jobs Market Dashboard](https://github.com/ManoharManu1999/Data-Jobs-Market-PowerBI-Dashboard)**
+    * *Built a comprehensive dashboard analyzing global job market trends and in-demand skills.*
+    * **Tools:** `Power BI` • `DAX` • `Power Query`
+---
+
+## 🧰 Tech Stack
+
+| **Category** | **Tools** |
+|--------------|-----------|
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Languages & Libraries** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| **BI Tools** | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Concepts** | ![ETL](https://img.shields.io/badge/ETL-800080?style=for-the-badge&logo=airflow&logoColor=white) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-4B0082?style=for-the-badge&logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-008080?style=for-the-badge&logo=datadog&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-00A86B?style=for-the-badge&logo=pinboard&logoColor=white) ![Data Validation](https://img.shields.io/badge/Data%20Validation-FF6F00?style=for-the-badge) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+
+---
+
+## 📚 Currently Learning
+
+- **Advanced Power BI:** DAX optimization and performance tuning for large semantic models.
+- **Data Engineering Concepts:** Exploring ETL orchestration and robust data pipelines.
+- **Data Workflows:** API integration and automated data extraction.
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Science in Computer Science** | Tumkur University (2017 - 2021)
+  * *Core focus on programming, databases, and analytical problem-solving.*
+
+---
+
+## 📜 Certifications
+
+* **Microsoft Power BI:** [Desktop for Business Intelligence](http://ude.my/UC-a2faa9ac-706d-4220-8818-66d61cc07807) (Udemy)
+* **SQL:** [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-ef18ba75-6174-4f77-8dff-2e69cef850df/) (Udemy) | [MySQL Data Analysis](https://certificates.mavenanalytics.io/a138beb0-1f60-4ca9-9ef6-4dbd8b5bec16) (Maven)
+* **Python:** [Programming for Everybody](https://www.coursera.org/account/accomplishments/verify/906GCZ6N5LYO) (Coursera) | [Python Foundations & Pandas](https://certificates.mavenanalytics.io/ea561dcf-b698-41e4-90cb-453e69381171) (Maven)
+* **Data Visualization:** [Matplotlib & Seaborn](https://certificates.mavenanalytics.io/9c29f760-a019-4e78-8104-a99b07042da3) (Maven)
+* **Excel:** [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/MN9TMJPZ5KTY) (Macquarie Univ.)
+
+---
+
+## 📞 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manohark1999/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manoharmanu.k1999@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="[ManoharManu1999](https://github.com/ManoharManu1999)"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ManoharManu1999&color=blue&style=flat-square" />
+  <a href="https://www.linkedin.com/in/manohark1999" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manoharmanu.k1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
----
-## ⭐ **Featured Projects**
-These projects demonstrate end-to-end SQL analytics, data engineering workflows, and business-driven decision support across multiple domains.
-
-### 🏗️ SQL Server Data Warehouse & Analytics Project
-Designed and implemented an end-to-end data warehouse using **SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.  
-The project focuses on ETL pipeline development, data quality handling, and dimensional modelling for analytics.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Data-Warehouse-Project)<br>
-🛠 **Tools**: SQL Server, T-SQL, Stored Procedures, ETL, Dimensional Modelling
-
----
-
-### 🎬 Maven Movies – Acquisition Due Diligence Analysis (MySQL)
-Conducted a structured acquisition-style business analysis using MySQL to evaluate revenue stability, inventory capital exposure, and customer lifetime value in a two-store retail model.  
-The project simulates real-world due diligence, applying multi-table joins, CTEs, and window functions to assess financial risk, capital efficiency, and monetization opportunities.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Movies_Project) <br> 
-🛠 **Tools**: MySQL, SQL, CTEs, Window Functions, Revenue Analysis, CLTV, Inventory Risk, Business Analytics
-
----
-
-### 🪪 PAN Number Validation & Data Quality Analysis (PostgreSQL)
-Built a real-world SQL data validation pipeline in PostgreSQL to clean, standardise, and validate Indian PAN numbers.
-Implemented regex-based format checks, duplicate handling, and sequence/repetition detection to classify valid and invalid records and generate data quality insights.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Pan_Number_Validation_Project)<br>
-🛠 **Tools**: PostgreSQL, SQL, DBeaver, Regex, CTE, Window Functions, Data Validation, CSV
-
----
-
-### 🎵 SQL Music Store Analysis (PostgreSQL)
-Designed and executed SQL-driven exploratory analysis on a digital music store dataset using PostgreSQL.
-The project focuses on business-oriented analysis using **joins**, aggregations, **window functions**, and **CTEs** to derive insights from customer, sales, and catalog data.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Music-Store-Analysis-Project)<br>
-🛠 **Tools**: PostgreSQL, SQL, DBeaver, Window Functions, CTEs, CSV
-
----
-
-### 🛒 Walmart Sales Analysis (SQL Server)
-Analysed Walmart sales data using SQL to uncover trends, customer behaviour, and top-performing products. Built insights using aggregations, joins, and time-based analysis to support data-driven decisions.<br>
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/SQL-Walmart-Sales-Analysis-Project)<br>
-🛠 **Tools**: SQL Server, Data Analysis, Business Insights
-
----
-
-### 📌 Power BI Job Market Dashboard (2024)
-Analysed 2024 job postings to uncover salary trends, in-demand skills, and remote opportunities.  
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Data-Jobs-Market-Power-BI-Dashboard-)<br>
-🛠 **Tools**: Power BI, Power Query, DAX
-
----
-
-### 🏨 AtliQ Hospitality EDA (Python)
-Uncovered booking trends and revenue insights using hotel data.  
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/EDA-Project-on-AtliQ-Hospitality)  
-🛠 **Tools**: Pandas, Seaborn, Matplotlib  
-
----
-
-### 🛒 Maven MegaMart Sales Analysis (Python)
-Analysed millions of retail transactions to identify key revenue drivers.  
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Maven_Mega_Mart)  
-🛠 **Tools**: Python, Time-Series, Seaborn  
-
----
-
-### 💼 U.S. Data Analyst Job Trends (Python)
-Explored tech skills, job titles, and salary benchmarks from job postings.  
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Python_Data_Project)  
-🛠 **Tools**: Pandas, Python, Plotly, Numpy 
-
----
-
-### 🚴 Adventure Works Power BI Dashboard
-Created a multi-page sales dashboard with insights on KPIs, regions, products, and customer segments.  
-🔗 [GitHub Repo](https://github.com/ManoharManu1999/Adventure-Works-Power-BI-Dashboard)<br>
-📌 Pages: KPIs, Regions, Products, Customers  
-🛠 **Tools**: Power BI, DAX 
-
----
-
-## 👨‍💻 **About Me**
-
-Hi again! I’m Manohar — someone who loves making work life **less overwhelming** and a *lot* more insightful with dashboards, data, and a dose of curiosity.
-
-Here on GitHub, you’ll find:
-- 🛠️ Practical projects using real-world datasets  
-- 📊 Dashboards and analytics reports powered by Python & Power BI  
-- 🔍 Explorations into trends, behaviours, and business outcomes  
-- 💡 Lessons I’m learning as I grow into the data space
-
-Whether you’re here to browse code, share ideas, or see how others are figuring things out — **you’re in the right place**. Let’s connect, learn, and grow — one repo at a time.
-
-You bring the snacks 🍪, I’ll bring the code 💻
-
----
-## 🧰 **Tech Stack**
-
-Here’s what’s in my toolbox:
-
-
-| **Category**             | **Tools** |
-|--------------------------|-----------|
-| **Database**             | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)|
-| **Programming & Libraries** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
-| **Analytics & BI**       | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-008080?style=for-the-badge&logo=datadog&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-800080?style=for-the-badge&logo=airflow&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-00A86B?style=for-the-badge&logo=pinboard&logoColor=white)
-| **Version Control**      | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Frameworks**           | ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Tools & Platforms**    | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📜 **Certifications**
-
-Here are my verified certifications from top platforms:
-
-![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
-- 🧾 [Excel Skills for Business – Macquarie University](https://www.coursera.org/account/accomplishments/specialization/MN9TMJPZ5KTY)
-- 🧾 [Programming for Everybody (Python) – University of Michigan](https://www.coursera.org/account/accomplishments/verify/906GCZ6N5LYO)
-- 🧾 [Preparing Data for Analysis with Excel](https://www.coursera.org/account/accomplishments/verify/HP9K3T12YYNU)
-
----
-
-<br>![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-
-- 🧾 [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-ef18ba75-6174-4f77-8dff-2e69cef850df/)
-- 🧾 [Microsoft Power BI Desktop for Business Intelligence](http://ude.my/UC-a2faa9ac-706d-4220-8818-66d61cc07807)
-
----
-
-<br> ![Maven Analytics Badge](https://img.shields.io/badge/Maven%20Analytics-0A66C2?style=for-the-badge&logo=knowledgebase&logoColor=white)
-
-
-- 🧾 [Python Foundations for Data Analysis](https://certificates.mavenanalytics.io/ea561dcf-b698-41e4-90cb-453e69381171)
-- 🧾 [MySQL Data Analysis](https://certificates.mavenanalytics.io/a138beb0-1f60-4ca9-9ef6-4dbd8b5bec16)
-- 🧾 [Microsoft Copilot for Excel](https://certificates.mavenanalytics.io/f4796d41-f2b3-4397-a6b2-f074e4323e32)
-- 🧾 [Data Visualization with Matplotlib & Seaborn](https://certificates.mavenanalytics.io/9c29f760-a019-4e78-8104-a99b07042da3)
-- 🧾 [Data Analysis with Python & Pandas](https://certificates.mavenanalytics.io/18a445cd-15b7-488b-9ee1-34ee6a52e6d7)
-- 🧾 [Cloud Basics for Data Professionals](https://certificates.mavenanalytics.io/5d31cdca-c46b-4e44-b70d-f9315ba736f2)
-
----
-
-## 📞 **Let's Connect**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohark1999)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharmanu.k1999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoharManu1999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-
-</div>
 
 <p align="center">
   <em>💡 "Transforming complex data into intelligent solutions that drive business success"</em>
@@ -193,8 +118,3 @@ Here are my verified certifications from top platforms:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
-
----
-
-⭐ *Thanks for stopping by! Don’t forget to check out my projects and give them a ⭐ if they spark your interest!*
-
